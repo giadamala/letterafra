@@ -7,7 +7,7 @@ st.markdown("<h1 style='text-align: center;'>Lettera per Francesco 💖</h1>", u
 st.markdown("---")
 
 testo = """
-Ciao amore mio... eccomi qui... a tentare di entrare nel tuo mondo 🌍 per esprimerti il mio amore ❤️.
+Ciao amore mio... eccomi qui... a tentare di entrare nel tuo mondo da IT per esprimerti il mio amore ❤️.
 
 Oggi il mio Francescolo compie 26 anni ed è quindi un'ottima occasione per esprimerti i miei sentimenti.
 
@@ -17,14 +17,22 @@ Da quel giorno è cominciato tutto...
 
 E non dimenticherò mai quel 26 luglio, quando a notte fonda mi hai detto: "vuoi essere la mia ragazza?" ❤️
 
-Poi a settembre è arrivato il nostro primo viaggio insieme, e quella è stata la conferma ufficiale che stiamo benissimo insieme.
+Poi a settembre è arrivato il nostro primo viaggio insieme, e quella è stata la conferma ufficiale che insieme stiamo benissimo.
 
-Tu sei la mia dolcezza, il mio sorriso, la mia anima gemella.
+Sei la mia pace, la mia sicurezza... sei la persona che voglio vedere quando non ho voglia di vedere nessuno, la persona che mi ha capita, la persona che mi fa sentire amata ogni giorno
 
-Ti amo tanto. Buon compleanno amore mio. ❤️
+Spero di poter presto condividere la quotidianita con te, per poterci godere la vita insieme... è il mio sogno.
 
-Con amore,  
+Anche se te l'ho già detto voglio ripetertelo... averti nella vita mi ha migliorata e mi sta migliorando tantissimo, hai un impatto enorme... ho trovato l'amore e si sei proprio tu
+
+Oggi voglio farti un mondo di auguri amore, ti amo davvero tantissimo, sei speciale e unico ❤️ 
+
+Buon compleanno amore mio. ❤️
+  
 Giada 💖
+
+Ps. non ci sto capendo nulla con sti linguaggi, spero tutto funzioni lol ti amo ciaociao
+
 """
 
 for riga in testo.split("\n"):
